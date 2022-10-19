@@ -5,4 +5,4 @@
 
 Ce site web permet aux usagers de trouver des hébergements et activités dans la ville de leur choix partout en France,
 il est aussi compatible sur mobile et tablette permettant ainsi une bonne expérience utilisateur.
-Voici le lien du site :
+Voici le lien du site : https://brahimac95.github.io/Booki-P2OC/
