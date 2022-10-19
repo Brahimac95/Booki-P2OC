@@ -1,5 +1,8 @@
-# Booki-P2OC
-Projet 2 Openclassrooms: Integration d'une maquette en  site web avec HTML & CSS.
-Booki est une petite entreprise proposant un outil de planification de vacances.
-Ce site web permettra aux usagers de trouver des hébergements et activités dans la ville de leur choix partout en France,
+# Ceci est le deuxième projet du parcours de développeur web d'OpenClassrooms
+## Booki entreprise pososant des outils de planification de vacances
+
+**Ce projet à été intégré en  HTML & CSS.**
+
+Ce site web permet aux usagers de trouver des hébergements et activités dans la ville de leur choix partout en France,
 il est aussi compatible sur mobile et tablette permettant ainsi une bonne expérience utilisateur.
+Voici le lien du site :
